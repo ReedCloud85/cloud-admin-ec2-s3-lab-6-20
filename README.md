@@ -16,12 +16,6 @@ This lab demonstrates a basic AWS architecture:
    - SSH restricted to my IP
    - HTTP open to 0.0.0.0/0 for testing
 
-'[![EC2 Inbound](screenshots/EC2 Inbound.jpg)]'
-
-'[![Apache Install](screenshots/Apache Start Service.jpg)]'
-
-'[![Apache Test Page](screenshots/Apache Test Page.jpg)]'
-
 2. Created S3 bucket `treedarchbucket620`
    - Uploaded image and README.txt
    - Public access blocked
