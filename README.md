@@ -15,7 +15,7 @@ This lab demonstrates a basic AWS architecture:
    - Apache installed and configured
    - SSH restricted to my IP
    - HTTP open to 0.0.0.0/0 for testing
-     ![EC2 Inbound] (screenshots/EC2 Inbound.jpg)
+     ![EC2 Inbound](screenshots/EC2 Inbound.jpg)
 
 2. Created S3 bucket `treedarchbucket620`
    - Uploaded image and README.txt
